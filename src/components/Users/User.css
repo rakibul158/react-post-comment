@@ -1,0 +1,7 @@
+.users-img{
+    padding-right: 10px;
+}
+.users-img img {
+    height: 50px;
+    border-radius: 50%;
+}
